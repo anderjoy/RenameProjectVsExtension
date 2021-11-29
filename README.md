@@ -11,9 +11,9 @@ It doesn't matter if project is located in solution folder (even for subfolder o
 
 In case of error at any stage of renaming project, all changes will be rolled back.  
 
-Download the latest version from [FullRenamer2019-12-19.vsix](https://github.com/kuanysh-nabiyev/RenameProjectVsExtension/blob/master/readme_files/FullRenamer2019-12-19.vsix)
+Download the latest version from [FullRenamer2021-11-29.vsix](https://github.com/anderjoy/RenameProjectVsExtension/blob/master/readme_files/FullRenamer2021-11-29.vsix)
 
-![fullrename vs project](https://github.com/kuanysh-nabiyev/RenameProjectVsExtension/blob/master/readme_files/fullrename.png)
+![fullrename vs project](https://github.com/anderjoy/RenameProjectVsExtension/blob/master/readme_files/fullrename.png)
 
 #### If you got "Access to the path XXX is denied", try the following:
 https://github.com/kuanysh-nabiyev/RenameProjectVsExtension/issues/17#issuecomment-421806448
